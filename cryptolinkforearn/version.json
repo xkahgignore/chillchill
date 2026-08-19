@@ -1,6 +1,7 @@
 {
     "version": "2026.8.19",
     "date": "2026-08-19",
-    "changelog": "Auto Faucet Script for CryptoLinkForEarn",
+    "changelog": "Fix security: Block bitcotasks.com, aoyco.in and other ad domains",
+    "min_loader_version": "2026.8.19",
     "download_url": "https://raw.githubusercontent.com/xkahgignore/chillchill/main/cryptolinkforearn/faucet.js"
 }
