@@ -110,7 +110,7 @@
 
 // @icon                         https://i.ibb.co/pvp2TNqr/snoopy.gif
 
-// @require                      https://github.com/xkahgignore/chillchill/blob/main/cryptolinkforearn/faucet.js
+// @require                      https://raw.githubusercontent.com/xkahgignore/chillchill/main/cryptolinkforearn/faucet.js
 
 // @version                      2026.18.8
 // @namespace                    Tampermonkey
